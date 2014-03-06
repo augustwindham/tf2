@@ -10,6 +10,6 @@ desired crosshair.
 To set match and favourite server autoconnect buttons, go to /resource/GameMenu and find "HomeServer" and "FaveServer".
 Enter the connection info, and you're good to go.
 
-If running in DX9, please go to the clientscheme.res file and find the "DarkGray" colour definition, instructions are present,
+If running the game in DX9, please go to the clientscheme.res file and find the "DarkGray" colour definition, instructions are present,
 change its value to "0 0 0 200". If running DX8, you're fine.
 
