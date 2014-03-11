@@ -1703,24 +1703,23 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"TFPlayerModel"
 		
-		"xpos"			"0"
+		"xpos"			"300"
 		"ypos"			"0"
-		"zpos"			"0"		
-		"wide"			"0"
-		"tall"			"0"
+		"zpos"			"-10"		
+		"wide"			"300"
+		"tall"			"300"
 		
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
-		"render_texture"	"0"
-		"fov"			"0"
+		"fov"			"25"
 		"allow_rot"		"0"
 
-		"paintbackground" "0"		
-		"paintbackgroundenabled" "0"
-		"bgcolor_override" "0 0 0 0"
+		"paintbackground" "1"		
+		"paintbackgroundenabled" "1"
+		"bgcolor_override" "255 255 255 0"
 		
 		"model"
 		{
