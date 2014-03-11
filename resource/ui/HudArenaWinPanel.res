@@ -21,7 +21,7 @@
 			"tall"			"17"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"Blue"
+			"fillcolor"		"White"
 		}
 
 		"BlueTeamLabel"
@@ -38,7 +38,7 @@
 			"tall"			"18"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"fgcolor"		"White"
+			"fgcolor"		"Blue"
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -57,7 +57,7 @@
 			"tall"			"25"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"fgcolor"		"White"
+			"fgcolor"		"Blue"
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -73,7 +73,7 @@
 			"tall"			"17"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"Red"
+			"fillcolor"		"White"
 		}	
 
 		"RedTeamLabel"
@@ -90,7 +90,7 @@
 			"tall"			"18"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"fgcolor"		"White"
+			"fgcolor"		"Red"
 			"visible"		"1"
 			"enabled"		"1"
 		}
@@ -109,7 +109,7 @@
 			"tall"			"25"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"fgcolor"		"White"
+			"fgcolor"		"Red"
 			"visible"		"1"
 			"enabled"		"1"
 		}		
