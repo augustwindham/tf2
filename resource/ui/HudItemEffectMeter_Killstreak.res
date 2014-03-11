@@ -91,7 +91,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudFontMedium"
-		"font_minmode"			"HudFontSmall"
 	}
 	
 	"StreakBG"
