@@ -21,6 +21,23 @@ CrossHairKonrWings
 		"fgcolor"		"Damage"
 	}
 
+	CrossHairKonrWingsOutline
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"CrossHairKonrWingsOutline"
+		"visible"		"1"			//1
+		"enabled"		"1"
+		"zpos"			"2"
+		"xpos"			"c-58"
+		"ypos"			"c-49"
+		"wide"			"102"
+		"tall"			"101"
+		"font"			"CrossHairKonrWingsOutline"
+		"labelText"		"i"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"155 0 155 255"
+	}
 //crosshair end	
 
     "HudAchievementTrackerItem"
