@@ -2,7 +2,7 @@
 {
 	"BWHUD"
 	{
-		"label" "BWHUD"
+		"label" "bwHUD"
 		"command" "engine con_enable 1; engine showconsole; clear; echo BWHUD Version 1.5, last edit February 26 2014. Thanks to whayay, omp, Fog, and doodle. Please direct any comments and/or concerns to steamcommunity.com/id/thecalvinandhobbes"
 		"OnlyAtMenu" "1"
 	}
