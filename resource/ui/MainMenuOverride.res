@@ -160,8 +160,8 @@
 		"xpos"			"0"		//0
 		"ypos"			"0"
 		"zpos"			"-10"
-		"wide"			"1920"
-		"tall"			"480"
+		"wide"			"0"
+		"tall"			"0"
 		"fillcolor"		"0 0 0 0"
 		"visible"		"0"
 		"enabled"		"0"
@@ -189,7 +189,7 @@
 		"zpos"			"-9"
 		"wide"			"197"
 		"tall"			"700"	
-		"fillcolor"		"0 0 0 175"	//"0 0 0 200"
+		"fillcolor"		"DarkGray"	//"0 0 0 200"
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -2136,10 +2136,10 @@
 		}
 	}
 
-	"Version"
+	"Lastupdate"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"Version"
+		"fieldname"		"Lastupdate"
 		"xpos"			"-1"
 		"ypos"			"r444"
 		"zpos"			"11"

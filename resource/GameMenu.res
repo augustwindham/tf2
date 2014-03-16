@@ -3,12 +3,12 @@
 	"BWHUD"
 	{
 		"label" "bwHUD"
-		"command" "engine con_enable 1; engine showconsole; clear; echo BWHUD Version 1.5, last edit February 26 2014. Thanks to whayay, omp, Fog, and doodle. Please direct any comments and/or concerns to steamcommunity.com/id/thecalvinandhobbes"
+		"command" "engine con_enable 1; engine showconsole; clear; echo bwHUD. Thanks to whayay, omp, Fog, rays and doodle for his guide. Please direct any comments and/or concerns to my teamfortress.tv thread or steamcommunity.com/id/thecalvinandhobbes"
 		"OnlyAtMenu" "1"
 	}
-	"Version"
+	"Lastupdate"
 	{
-		"label" "Version 1.5"
+		"label" "Last Updated March 15 2014"
 		"command" "engine con_enable 1; engine showconsole; clear; echo Thanks for using my HUD!"
 		"OnlyAtMenu" "1"
 	}
@@ -75,13 +75,13 @@
 	"HomeServer"
 	{
 		"label" "7"
-		"command" "engine connect ;password "
+		"command" "engine connect 64.74.97.34:27015;password toasty"
         "tooltip" "Match Server"
 	}
 	"FaveServer"
 	{
 		"label" "6"
-		"command" "engine connect "
+		"command" "engine connect 72.5.195.47:27015"
         "tooltip" "Favourite Server"
 	}
 	"ToggleScoreboard"

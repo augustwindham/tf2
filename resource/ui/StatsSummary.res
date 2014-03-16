@@ -36,7 +36,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"46 43 42 255"
+		"bgcolor_override"	"0 0 0 0"
 	
 		"Background"
 		{
