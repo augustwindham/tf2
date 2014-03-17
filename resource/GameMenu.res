@@ -8,7 +8,7 @@
 	}
 	"Lastupdate"
 	{
-		"label" "Last Updated March 15 2014"
+		"label" "Last Updated March 17 2014"
 		"command" "engine con_enable 1; engine showconsole; clear; echo Thanks for using my HUD!"
 		"OnlyAtMenu" "1"
 	}
@@ -75,13 +75,13 @@
 	"HomeServer"
 	{
 		"label" "7"
-		"command" "engine connect 64.74.97.34:27015;password toasty"
+		"command" "engine connect ;password "
         "tooltip" "Match Server"
 	}
 	"FaveServer"
 	{
 		"label" "6"
-		"command" "engine connect 72.5.195.47:27015"
+		"command" "engine connect "
         "tooltip" "Favourite Server"
 	}
 	"ToggleScoreboard"
