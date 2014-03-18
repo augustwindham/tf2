@@ -72,7 +72,7 @@
         "xpos"                "2"
         "ypos"                "15"
         "zpos"                "-4"
-        "wide"	          	  "640"
+        "wide"	          	  "240"
         "tall"		          "20"
         "autoResize"	      "0"
         "pinCorner"	          "0"
@@ -169,12 +169,12 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
 		"xpos"			"49"
-		"ypos"			"8"		//19
+		"ypos"			"36"		//19
 		"zpos"			"12"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"wide"			"9"
+		"tall"			"9"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/leaderboard_class_heavy"
 		"scaleImage"	"1"
 	}	
