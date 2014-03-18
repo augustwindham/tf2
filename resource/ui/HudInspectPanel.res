@@ -10,7 +10,7 @@
 		"wide"			"250"
 		"tall"			"170"
 		"visible"		"0"
-		"bgcolor_override"		"255 255 255 0"
+		"bgcolor_override"		"30 30 30 130"
 		"PaintBackgroundType"	"0"
 		
 		"model_xpos"		"4"
