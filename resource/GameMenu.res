@@ -6,9 +6,9 @@
 		"command" "engine con_enable 1; engine showconsole; clear; echo bwHUD. Thanks to whayay, omp, Fog, rays and doodle for his guide. Please direct any comments and/or concerns to my teamfortress.tv thread or steamcommunity.com/id/thecalvinandhobbes"
 		"OnlyAtMenu" "1"
 	}
-	"Lastupdate"
+	"Version"
 	{
-		"label" "Last Updated March 17 2014"
+		"label" "Release Version 1.0.3"
 		"command" "engine con_enable 1; engine showconsole; clear; echo Thanks for using my HUD!"
 		"OnlyAtMenu" "1"
 	}

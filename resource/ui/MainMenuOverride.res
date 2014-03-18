@@ -2136,10 +2136,10 @@
 		}
 	}
 
-	"Lastupdate"
+	"Version"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"Lastupdate"
+		"fieldname"		"Version"
 		"xpos"			"-1"
 		"ypos"			"r444"
 		"zpos"			"11"
