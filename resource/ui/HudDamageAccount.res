@@ -10,7 +10,7 @@
 		"NegativeColor"			"Damage"
 		"delta_lifetime"		"3.0"
 		"delta_item_font"		"NoveLight20"
-		"delta_item_font_big"	"NoveLight20"
+		"delta_item_font_big"	"NoveMedium20"
 	}
 
 	
