@@ -18,9 +18,9 @@ Scheme
 		// base colors
 		"White"				"255 255 255 255"
 		"OffWhite"			"255 255 255 255"
-		"DullWhite"			"214 214 214 255"
-		"Orange"			"214 214 214 255"
-		"TransparentBlack"		"54 54 54 255"
+		"DullWhite"			"30 30 30 255"
+		"Orange"			"30 30 30 255"
+		"TransparentBlack"	"100 100 100 255"
 		"Black"				"0 0 0 255"
 
 		"Blank"				"0 0 0 0"
@@ -63,10 +63,10 @@ Scheme
 		Frame.TitleTextInsetX			0
 		Frame.ClientInsetX				0
 		Frame.ClientInsetY				0
-		Frame.BgColor					"0 0 0 214"
+		Frame.BgColor					"0 0 0 200"
 		Frame.OutOfFocusBgColor			"0 0 0 57"
-		Frame.FocusTransitionEffectTime	"0.3"	// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.3"	// time it takes for a window to fade in/out on open/close
+		Frame.FocusTransitionEffectTime	"0.1"	// time it takes for a window to fade in/out on focus/out of focus
+		Frame.TransitionEffectTime		"0.1"	// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
 		FrameGrip.Color1				"200 200 200 0"
 		FrameGrip.Color2				"0 0 0 0"
@@ -92,7 +92,7 @@ Scheme
 		Label.TextColor					"OffWhite"
 		Label.TextBrightColor				"White"
 		Label.SelectedTextColor				"White"
-		Label.BgColor					"TransparentBlack"
+		Label.BgColor					"Blank"
 		Label.DisabledFgColor1			"117 117 117 255"
 		Label.DisabledFgColor2			"30 30 30 255"
 
@@ -126,7 +126,7 @@ Scheme
 		RichText.TextColor				"OffWhite"
 		RichText.BgColor				"TransparentBlack"
 		RichText.SelectedTextColor		"Black"
-		RichText.SelectedBgColor		"Orange"
+		RichText.SelectedBgColor		"White"
 
 		ScrollBar.Wide					17
 
@@ -163,7 +163,7 @@ Scheme
 		TextEntry.DisabledTextColor	"DullWhite"
 		TextEntry.DisabledBgColor	"Blank"
 		TextEntry.SelectedTextColor	"Black"
-		TextEntry.SelectedBgColor	"Orange"
+		TextEntry.SelectedBgColor	"White"
 		TextEntry.OutOfFocusSelectedBgColor	"54 54 54 255"
 		TextEntry.FocusEdgeColor	"0 0 0 196"
 
