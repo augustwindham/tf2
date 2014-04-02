@@ -65,12 +65,12 @@
         {
             "ControlName"	"ImagePanel"
             "fieldName"		"RedBG"
-            "xpos"          "80"
+            "xpos"          "100"	//80
             "ypos"          "450"
             "zpos"          "-8"
-            "wide"          "80"
+            "wide"          "40"	//80
             "tall"          "22"
-            "fillcolor"		"255 255 255 150"
+            "fillcolor"		"255 255 255 255"	//255 255 255 150
             "visible"		"1"
             "enabled"		"1"
         }
@@ -78,12 +78,12 @@
         {
             "ControlName"	"ImagePanel"
             "fieldName"		"BlueBG"
-            "xpos"          "0"
+            "xpos"          "20"	//20
             "ypos"          "450"
             "zpos"          "-8"
-            "wide"          "80"
+            "wide"          "40"	//80
             "tall"          "22"
-            "fillcolor"		"255 255 255 150"
+            "fillcolor"		"255 255 255 255"	//255 255 255 150
             "visible"		"1"
             "enabled"		"1"
         }
