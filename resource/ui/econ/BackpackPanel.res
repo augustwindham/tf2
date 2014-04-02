@@ -33,6 +33,12 @@
 		"button_ydelta"	"80"
 		"button_override_delete_xpos" "0"
 		
+		"page_button_y"			"288"
+		"page_button_x_delta"	"3"
+		"page_button_y_delta"	"3"
+		"page_button_per_row"	"20"
+		"page_button_height"	"13"
+		
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -56,7 +62,10 @@
 			
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
-			
+		
+			"deferred_description"		"1"
+			"deferred_icon"				"1"
+		
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
@@ -262,24 +271,6 @@
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
-		"attriblabel"
-		{
-			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
-			"ypos"			"30"
-			"zpos"			"2"
-			"wide"			"140"
-			"tall"			"60"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"%attriblist%"
-			"textAlignment"	"center"
-			"fgcolor"		"110 110 110 255"
-			"centerwrap"	"1"
-		}
 	}
 	
 	"mousedragitempanel"
@@ -315,8 +306,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"PrevPageButton"
-		"xpos"			"c195"
-		"ypos"			"290"
+		"xpos"			"c-288"
+		"ypos"			"325"
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
@@ -342,8 +333,8 @@
 		"font"			"HudFontSmallBold"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
-		"xpos"			"c220"
-		"ypos"			"290"
+		"xpos"			"c-263"
+		"ypos"			"325"
 		"zpos"			"1"
 		"wide"			"40"
 		"tall"			"20"
@@ -358,8 +349,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"NextPageButton"
-		"xpos"			"c265"
-		"ypos"			"290"
+		"xpos"			"c-218"
+		"ypos"			"325"
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
@@ -504,8 +495,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"StyleButton"
-		"xpos"			"c50"
-		"ypos"			"290"
+		"xpos"			"c-192"
+		"ypos"			"325"
 		"zpos"			"20"
 		"wide"			"100"
 		"tall"			"20"
