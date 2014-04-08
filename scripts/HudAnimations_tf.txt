@@ -152,7 +152,6 @@ event HudHealthDyingPulseStop
 
 //===========================================
 
-
 event HudLowAmmoPulse {RunEvent LowAmmoPulse 0}
 event LowAmmoPulse
 {
