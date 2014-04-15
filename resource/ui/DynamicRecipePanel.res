@@ -302,6 +302,27 @@
 			"wrap"			"1"
 		}
 
+		"UntradablCheckBox"
+		{
+			"ControlName"	"CheckButton"
+			"fieldName"		"UntradableCheckbox"
+			"labelText"		"#Dynamic_Recipe_Untradable_Checkbox"
+			"Font"			"HudFontSmallestBold"
+			"textAlignment"	"west"
+			"xpos"			"-4"
+			"ypos"			"2"
+			"zpos"			"1"
+			"wide"			"280"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"fgcolor"		"200 187 161 255"
+		}
+		
 		"BackpackItems"
 		{
 			"ControlName"	"CExLabel"
