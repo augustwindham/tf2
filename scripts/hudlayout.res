@@ -24,12 +24,12 @@
 		"tall"		"480"
         "enabled"	"1"
         
-        "visible"	"0"			     //"1" to enable
+        "visible"	"1"			     //"1" to enable
         
-		"labeltext"	"c"              //Change this to use a different crosshair
+		"labeltext"	"T"              //Change this to use a different crosshair
                                      //You can see the list of crosshairs in yacrosshairs.png
         
-        "font"		"CrosshairAASmall"    //Use "CrosshairOL" for a crosshair with an outline
+        "font"		"CrosshairOLSmall"    //Use "CrosshairOL" for a crosshair with an outline
                                      //or "CrosshairAA" for a smooth crosshair w/o an outline 
                                      
                                      //You can add "Small" or "Big" at the end to change the size
@@ -56,7 +56,7 @@
                                         //Circle around crosshair
         "visible"	"0"			        //"1" to enable
         
-        "fgcolor"	"Black"             //Color
+        "fgcolor"	"Gray"             //Color
         
         "font"		"OutlineCircleSmall"  //You can add "Small" or "Big" to change the size
 	}
@@ -900,7 +900,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
-		"ypos"		"352"
+		"ypos"		"345"
 		"wide"	 	"f0"
 		"tall"	 	"50"
 		"priority"	"40"
@@ -924,7 +924,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-190"
-		"ypos"		"276"
+		"ypos"		"274"
 		"wide"	 	"f0"
 		"tall"	 	"50"
 		"priority"	"35"

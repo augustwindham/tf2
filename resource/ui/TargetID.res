@@ -7,7 +7,7 @@
 		"xpos"			"0"
 		"ypos"			"15"
 		"zpos"			"-1"
-		"wide"			"252"
+		"wide"			"640"
 		"tall"	 		"0"             //50
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -27,16 +27,16 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Blue"
-		"xpos"			"1"
-		"ypos"			"47"
+		"xpos"			"2"
+		"ypos"			"-47"
 		"zpos"			"-1"
-		"wide"			"252"
+		"wide"			"640"
 		"tall"	 		"50"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"replay/thumbnails/bg_blue"
+		"image"			"../hud/color_panel_blu"
 		
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
@@ -47,16 +47,16 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"TargetIDBG_Spec_Red"
-		"xpos"			"1"
-		"ypos"			"47"
+		"xpos"			"2"
+		"ypos"			"-47"
 		"zpos"			"-1"
-		"wide"			"252"
+		"wide"			"640"
 		"tall"	 		"50"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"replay/thumbnails/bg_red"
+		"image"			"../hud/color_panel_red"
 		
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
@@ -72,7 +72,7 @@
         "xpos"                "2"
         "ypos"                "15"
         "zpos"                "-4"
-        "wide"	          	  "240"
+        "wide"	          	  "640"
         "tall"		          "20"
         "autoResize"	      "0"
         "pinCorner"	          "0"
@@ -88,7 +88,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
 		"font"			"Medium14"				//Medium12
-		"xpos"			"53"
+		"xpos"			"57"
 		"ypos"			"17"	
 		"zpos"			"2"
 		"wide"			"640"
@@ -109,7 +109,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabelShadow"
 		"font"			"Medium13"				//Medium12
-		"xpos"			"53"
+		"xpos"			"57"
 		"ypos"			"-1"	
 		"zpos"			"-52"
 		"wide"			"640"
@@ -129,9 +129,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		"font"			"NoveMedium9"
-		"xpos"			"52"
-		"ypos"			"32"		
+		"font"			"NoveMedium10"
+		"xpos"			"57"
+		"ypos"			"2"		
 		"zpos"			"4"
 		"wide"			"250"
 		"tall"			"15"
@@ -168,16 +168,31 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"AmmoIcon"
-		"xpos"			"49"
-		"ypos"			"36"		//19
+		"xpos"			"54"
+		"ypos"			"6"		//19
 		"zpos"			"12"
-		"wide"			"9"
-		"tall"			"9"
-		"visible"		"1"
+		"wide"			"8"
+		"tall"			"8"
+		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/leaderboard_class_heavy"
 		"scaleImage"	"1"
 	}	
+	
+	KillStreakIcon"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"KillStreakIcon"
+		"xpos"			"54"
+		"ypos"			"6"
+		"zpos"			"12"
+		"wide"			"8"
+		"tall"			"8"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			"../hud/leaderboard_streak"
+		"scaleImage"	"1"
+	}
 	
 	"MoveableSubPanel"
 	{
