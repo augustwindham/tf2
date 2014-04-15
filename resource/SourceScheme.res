@@ -59,10 +59,10 @@ Scheme
 		// scheme-specific colors
 		Border.Bright					"40 40 40 196"
 		Border.Dark						"40 40 40 196"
-		Border.Selection				"0 0 0 196"default/selected button
+		Border.Selection				"0 0 0 196"			//default/selected button
 
-		Button.TextColor				"196 196 196 255"
-		Button.BgColor					"120 120 120 128"
+		Button.TextColor				"Black"
+		Button.BgColor					"White"
 		Button.ArmedTextColor			"White"
 		Button.ArmedBgColor				"bwButtonHover"
 		Button.DepressedTextColor		"White"
@@ -171,8 +171,8 @@ Scheme
 		Panel.BgColor					"Blank"
 		ProgressBar.FgColor				"White"
 		ProgressBar.BgColor				"TransparentBlack"
-		PropertySheet.TextColor			"OffWhite"
-		PropertySheet.SelectedTextColor	"White"
+		PropertySheet.TextColor			"Black"
+		PropertySheet.SelectedTextColor	"Black"
 		PropertySheet.TransitionEffectTime	"0.25"
 		RichText.TextColor				"OffWhite"
 		RichText.BgColor				"TransparentBlack"
