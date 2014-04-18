@@ -23,7 +23,7 @@
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"150"		//141
+			"wide"			"150"
 			"tall"			"14"
 			"zpos"			"-1"
 
@@ -58,7 +58,7 @@
 				"tall"        "14"			
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"White"
+				"fillcolor"		"255 255 255 255"
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -91,7 +91,6 @@
 				"autoResize"		"0"
 				"pinCorner"		"0"
 				"fillcolor"		"DarkGraySolid"
-				"alpha"				"255"
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -100,11 +99,11 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
-				"font"		"Regular10"
-				"xpos"			"45"
-				"ypos"			"0"
+				"font"		"Regular11"
+				"xpos"			"43"
+				"ypos"			"1"
 				"zpos"			"5"
-				"wide"			"83"		//62
+				"wide"			"85"		//62
 				"tall"			"13"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -230,9 +229,9 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"Regular10"		//9
+				"font"		"Regular11"		//9
 				"xpos"			"2"
-				"ypos"			"0"
+				"ypos"			"1"
 				"zpos"			"8"
 				"wide"			"23"
 				"tall"			"13"
