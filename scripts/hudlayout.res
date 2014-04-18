@@ -24,7 +24,7 @@
 		"tall"		"480"
         "enabled"	"1"
         
-        "visible"	"1"			     //"1" to enable
+        "visible"	"0"			     //"1" to enable
         
 		"labeltext"	"T"              //Change this to use a different crosshair
                                      //You can see the list of crosshairs in yacrosshairs.png
@@ -1894,5 +1894,18 @@
 		"ypos"			"100"
 		"wide"			"320"
 		"tall"			"150"
+	}
+	
+	"CTFKillStreakNotice"
+	{
+		"fieldName"		"CTFKillStreakNotice"
+		"xpos"			"0"			
+		"ypos"			"0"
+		"wide"			"640"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"0 0 0 0"
+		"PaintBackgroundType"	"0" // rounded corners
 	}
 }
