@@ -34,7 +34,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"25"
+		"xpos"					"11"
 		"ypos"					"27"
 		"zpos"					"2"
 		"wide"					"41"
@@ -77,7 +77,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"25"
+		"xpos"					"11"
 		"ypos"					"10"
 		"zpos"					"2"
 		"wide"					"40"
@@ -90,14 +90,14 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"solFontRegular21"
 	}
 	
 	"StreakBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"StreakBG"
-		"xpos"			"20"
+		"xpos"			"6"
 		"ypos"			"10"
 		"zpos"			"0"
 		"wide"			"50"
