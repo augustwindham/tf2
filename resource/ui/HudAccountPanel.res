@@ -87,7 +87,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"White"
-		"font"			"DataLabelBig"
+		"font"			"solFontBold16"
 	}
 	"AccountValueShadow"
 	{
@@ -108,6 +108,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"HudShadow"
-		"font"			"DataLabelBig"
+		"font"			"solFontBold16"
 	}
 }

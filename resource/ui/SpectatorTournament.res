@@ -90,7 +90,7 @@
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"DarkGraySolid"
+				"fillcolor"		"0 0 0 205"
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -99,7 +99,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
-				"font"		"Regular11"
+				"font"		"Regular10"
 				"xpos"			"43"
 				"ypos"			"1"
 				"zpos"			"5"
@@ -229,7 +229,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"Regular11"		//9
+				"font"		"solFontRegular11"		//9
 				"xpos"			"2"
 				"ypos"			"1"
 				"zpos"			"8"
@@ -271,7 +271,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
-				"font"		"Medium10"
+				"font"		"solFontRegular10"
 				"xpos"			"1"
 				"ypos"			"1"
 				"zpos"			"8"

@@ -1460,6 +1460,298 @@ Scheme
 			}
 		}
 		
+		solFontRegular8
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular9
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular10
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular11
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular12
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular14
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular16
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular21
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"21"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular24
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular30
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"30"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular36
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"36"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular40
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"40"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular48
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"48"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular60
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"60"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontRegular72
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"72"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
+		solFontBold8
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold9
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"9"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold10
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"10"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold11
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold12
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold14
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold16
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold21
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"21"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold24
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold30
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"30"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold36
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"36"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold48
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"48"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold60
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"60"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold72
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"72"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
 		"Heavy59"
 		{
 			"1"
@@ -7062,6 +7354,16 @@ Scheme
 		{
 			"font" "resource/fonts/HeavyCaps.ttf"
 			"name" "HeavyCaps"  
+		}
+		"25"
+		{
+			"font"	"resource/fonts/Solomon-Normal.otf"
+			"name" "solFontRegular"
+		}
+		"26"
+		{
+			"font"	"resource/fonts/Solomon Heavy.ttf"
+			"name"	"solFontBold"
 		}
 	}
 }

@@ -100,7 +100,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"DataLabelBig"
+			"font"			"solFontRegular21"
 			"fgcolor"		"White"
 		}		
 		"NumPipesLabelShadow"
@@ -121,7 +121,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"DataLabelBig"
+			"font"			"solFontRegular21"
 			"fgcolor"		"HudShadow"
 		}		
 	}

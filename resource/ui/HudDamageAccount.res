@@ -6,11 +6,11 @@
 		"text_x"				"7"
 		"text_y"				"0"
 		"delta_item_end_y"		"0"
-		"PositiveColor"			"Green"
+		"PositiveColor"			"Positive"
 		"NegativeColor"			"Damage"
 		"delta_lifetime"		"3.0"
-		"delta_item_font"		"NoveLight20"
-		"delta_item_font_big"	"NoveMedium20"
+		"delta_item_font"		"solFontRegular21"
+		"delta_item_font_big"	"solFontBold21"
 	}
 
 	
@@ -29,7 +29,7 @@
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"center"
 		"fgcolor"		"Damage"
-		"font"			"NoveLight20"
+		"font"			"solFontRegular21"
 	}
 	"DamageAccountValueShadow"
 	{
@@ -46,6 +46,6 @@
 		"delta_lifetime"	"10.0"
 		"textAlignment"	 	"center"
 		"fgcolor"	 		"HudShadow"
-		"font"	 			"NoveLight20"			
+		"font"	 			"solFontRegular21"			
 	}
 }
