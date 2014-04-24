@@ -7357,7 +7357,7 @@ Scheme
 		}
 		"25"
 		{
-			"font"	"resource/fonts/Solomon-Normal.otf"
+			"font"	"resource/fonts/Solomon Normal.otf"
 			"name" "solFontRegular"
 		}
 		"26"
