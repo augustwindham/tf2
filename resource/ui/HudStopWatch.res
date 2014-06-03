@@ -4,23 +4,23 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudStopWatchBG"
-		"xpos"			"0"
-		"ypos"			"5"
+		"xpos"			"c30"
+		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"145"
-		"tall"			"31"
+		"wide"			"60"
+		"tall"			"4"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"replay/thumbnails/bg_blank"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
 
 
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
 		
-		"draw_corner_width"	"7"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"7"	
+		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 	}
 
 	"StopWatchImageCaptureTime"
@@ -56,34 +56,34 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"NoveLight20"
+			"font"			"solFontRegular21"
 			"fgcolor"		"White"
-			"xpos"			"c-71"
-			"ypos"			"21"
+			"xpos"			"c25"
+			"ypos"			"2"
 			"zpos"			"1"
 			"wide"			"54"
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"east"
+			"textAlignment"		"center"
 		}
         
         "TimePanelLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelLabel"
-			"font"			"NoveLight20"
+			"font"			"solFontRegular12"
 			"fgcolor"	    "White"
-			"labelText"		"CAPTURES"
+			"labelText"		"CAPS"
 			"textAlignment"	"center"
-			"xpos"			"c13"
-			"ypos"			"21"
+			"xpos"			"c-30"
+			"ypos"			"14	"
 			"zpos"			"0"
 			"wide"			"92"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 		}
 	}
@@ -92,16 +92,16 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"StopWatchScoreToBeat"
-		"font"			"NoveLight20"
+		"font"			"solFontRegular21"
 		"labelText"		"%scoretobeat%"
 		"textAlignment"		"center"
 		"fgcolor"		"White"
         "textinsetx"	"0"
 		"use_proportional_insets" "1"
-		"xpos"			"c-21"
-		"ypos"			"21"
+		"xpos"			"c55"
+		"ypos"			"2"
 		"zpos"			"4"
-		"wide"			"40"
+		"wide"			"54"
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -112,7 +112,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		    "StopWatchPointsLabel"
-		"font"			    "NoveLight16"
+		"font"			    "solFontRegular16"
 		"labelText"		    ""
 		"textAlignment"		"center"
 		"fgcolor"		    "White"
