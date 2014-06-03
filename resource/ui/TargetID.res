@@ -87,9 +87,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Medium14"				//Medium12
+		"font"			"solFontRegular14"				//Medium12
 		"xpos"			"57"
-		"ypos"			"17"	
+		"ypos"			"18"	
 		"zpos"			"2"
 		"wide"			"640"
 		"tall"			"14"
@@ -127,9 +127,9 @@
 	}
 	"TargetDataLabel"
 	{	
-		"ControlName"		"CExLabel"
+		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"NoveMedium10"
+		"font"			"solFontRegular11"
 		"xpos"			"57"
 		"ypos"			"2"		
 		"zpos"			"4"
@@ -141,7 +141,7 @@
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
 		"fgcolor"		"White"
-		"textAlignment"		"west"
+		"textAlignment"		"Left"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
@@ -175,19 +175,19 @@
 		"tall"			"8"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../hud/leaderboard_class_heavy"
+		"image"			"replay/thumbnails/ammo_icon"
 		"scaleImage"	"1"
 	}	
 	
-	KillStreakIcon"
+	"KillStreakIcon"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"KillStreakIcon"
-		"xpos"			"54"
-		"ypos"			"6"
+		"xpos"			"56"
+		"ypos"			"4"
 		"zpos"			"12"
-		"wide"			"8"
-		"tall"			"8"
+		"wide"			"10"
+		"tall"			"10"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/leaderboard_streak"

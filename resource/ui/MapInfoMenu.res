@@ -57,7 +57,7 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium24"
+		"font"			"solFontRegular24"
 		"fgcolor"		"White"
 	}
 	
@@ -76,7 +76,7 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium14"
+		"font"			"solFontRegular14"
 		"fgcolor"		"White"
 	}
 
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CTFRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"Medium14"
+		"font"			"solFontRegular14"
 		"xpos"			"251"
 		"ypos"			"180"
 		"zpos"			"3"
@@ -131,7 +131,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium14"
+		"font"			"solFontRegular14"
 		"fgcolor"		"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Flavor"
@@ -181,7 +181,7 @@
 		"labelText"		"o"
 		"textAlignment"		"center"
 		"xpos"			"255"		
-		"ypos"			"r113"		
+		"ypos"			"r114"		
 		"zpos"			"7"
 		"wide"			"20"
 		"tall"			"20"
@@ -193,7 +193,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"EnterSC"
-		"xpos"			"255"		
+		"xpos"			"254"		
 		"ypos"			"r113"		
 		"zpos"			"16"
 		"wide"			"21"
@@ -209,7 +209,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"solFontRegular10"
 		"fgcolor"			"Black"
 		"defaultFgColor_override" "Black"
 		"armedFgColor_override" "Black"
@@ -236,7 +236,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"solFontRegular10"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Flavor"
@@ -260,7 +260,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"solFontRegular10"
 		"fgcolor"			"White"
 	}
 }

@@ -57,7 +57,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemLabel"
-			"font"			"Futura9"
+			"font"			"DefaultSmall"
 			"fgcolor"		"White"
 			"xpos"			"5"
 			"ypos"			"5"

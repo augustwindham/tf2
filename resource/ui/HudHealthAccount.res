@@ -9,6 +9,6 @@
 		"PositiveColor"			"Positive"
 		"NegativeColor"			"Negative"
 		"delta_lifetime"		"1"
-		"delta_item_font"		"NoveLight20"
+		"delta_item_font"		"solFontRegular21"
 	}
 }

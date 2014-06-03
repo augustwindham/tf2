@@ -96,7 +96,7 @@
 				"textAlignment" "center"
 				"dulltext"              "0"
 				"brighttext"    "1"
-				"font"                  "Medium13"
+				"font"                  "solFontRegular14"
 				"fgcolor"               "Blue"
 		}              
 	   
@@ -117,7 +117,7 @@
 				"textAlignment" "center"
 				"dulltext"              "0"
 				"brighttext"    "1"
-				"font"                  "Medium13"
+				"font"                  "solFontRegular14"
 				"fgcolor"               "Red"
 		}
 
@@ -168,7 +168,7 @@
 				"textAlignment" "center"
 				"dulltext"              "0"
 				"brighttext"    "1"
-				"font"                  "Medium13"
+				"font"                  "solFontRegular14"
 				"fgcolor"               "White"
 		}              
 	   
@@ -189,7 +189,7 @@
 				"textAlignment" "center"
 				"dulltext"              "0"
 				"brighttext"    "1"
-				"font"                  "Medium13"
+				"font"                  "solFontRegular14"
 				"fgcolor"               "White"
 		}
 	   
@@ -306,7 +306,7 @@
 				"paintborder"   "0"
 				"command"               "jointeam auto"
 				"associated_model"      "autodoor"
-				"font"                  "Medium14"
+				"font"                  "solFontRegular14"
 				"fgcolor"               "White"
 				"defaultFgColor_override" "White"
 				"armedFgColor_override" "Select"
@@ -333,7 +333,7 @@
 				"paintborder"   "0"
 				"command"               "jointeam spectate"
 				"associated_model"      "spectate"     
-				"font"                  "Medium14"
+				"font"                  "solFontRegular14"
 				"fgcolor"               "White"
 				"defaultFgColor_override" "White"
 				"armedFgColor_override" "Select"
@@ -358,7 +358,7 @@
 				"dulltext"              "0"
 				"brighttext"    "0"
 				"command"               "cancelmenu"
-				"font"                  "Medium11"
+				"font"                  "solFontRegular10"
 				"border_default"        ""
 				"border_armed"          ""
 				"paintbackground"       "0"

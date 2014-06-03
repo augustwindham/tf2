@@ -231,7 +231,7 @@
 		"textAlignment"		"east"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"Medium12"
+		"font"				"solFontRegular12"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_random_inactive"
@@ -289,7 +289,7 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_Offense"
 		"textAlignment"	"center"
-		"font"			"Medium14"
+		"font"			"solFontRegular14"
 		"fgcolor"		"White"
 	}
 	"scout"
@@ -485,7 +485,7 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_Defense"
 		"textAlignment"	"center"
-		"font"			"Medium14"
+		"font"			"solFontRegular14"
 		"fgcolor"		"White"
 	}
 	"demoman"
@@ -679,7 +679,7 @@
 		"tabPosition"	"0"
 		"labelText"		"#TF_Support"
 		"textAlignment"	"center"
-		"font"			"Medium14"
+		"font"			"solFontRegular14"
 		"fgcolor"		"White"
 	}
 	"medic"
@@ -877,7 +877,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"Medium12"
+		"font"			"solFontRegular12"
 		"fgcolor"			"Blank"
 		"defaultFgColor_override" "Blank"
 		"armedFgColor_override" "Blank"
@@ -904,7 +904,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"Medium12"
+		"font"			"solFontRegular12"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Select"
@@ -931,7 +931,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"Medium12"
+		"font"			"solFontRegular12"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "Select"
@@ -1289,7 +1289,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}	
 	
@@ -1309,7 +1309,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}		
 	
@@ -1329,7 +1329,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}			
 	
@@ -1349,7 +1349,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}				
 	
@@ -1369,7 +1369,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}					
 	
@@ -1389,7 +1389,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}						
 	
@@ -1409,7 +1409,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}							
 	
@@ -1429,7 +1429,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}						
 	
@@ -1449,7 +1449,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
-		"font"			"Medium11"
+		"font"			"solFontRegular11"
 		"fgcolor"		"White"
 	}								
 	

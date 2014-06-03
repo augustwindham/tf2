@@ -1,4 +1,4 @@
-			"Resource/UI/Scoreboard.res"
+"Resource/UI/Scoreboard.res"
 {
 	"scores"
 	{
@@ -119,7 +119,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamLabel"
-		"font"			"Bold14"
+		"font"			"solFontBold14"
 		"labelText"		"%blueteamname%"
 		"fgcolor"		"Blue"
 		"textAlignment"	"west"
@@ -168,7 +168,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
-		"font"			"Medium9"
+		"font"			"solFontRegular9"
 		"labelText"		"%blueteamplayercount%"
 		"fgcolor"		"Blue"
 		"textAlignment"	"east"
@@ -238,7 +238,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedTeamLabel"
-		"font"			"Bold14"
+		"font"			"solFontBold14"
 		"labelText"		"%redteamname%"
 		"fgcolor"		"Red"
 		"textAlignment"	"east"
@@ -288,7 +288,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedTeamPlayerCount"
-		"font"			"Medium9"
+		"font"			"solFontRegular9"
 		"labelText"		"%redteamplayercount%"
 		"fgcolor"		"Red"
 		"textAlignment"	"west"
@@ -313,7 +313,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"Regular9Shadow"
+		"font"			"solFontRegular9"
 		"labelText"		"%server%"
 		"fgcolor"			"White"
 		"textAlignment"	"west"
@@ -335,12 +335,39 @@
 			"wide"			"590"
 		}
 	}
+	"ServerLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ServerLabelShadow"
+		"font"			"solFontRegular9"
+		"labelText"		"%server%"
+		"fgcolor"			"Black"
+		"textAlignment"	"west"
+		"xpos"			"158"
+		"xpos_minmode"	"587"
+		"ypos"			"124"
+		"ypos_minmode"	"135"
+		"zpos"			"-1"
+		"wide"			"470"
+		"tall"			"15"
+		"visible"		"1"
+		"enabled"		"1"
+
+		if_mvm
+		{
+			"font"			"Light14"
+			"textAlignment"		"west"
+			"xpos"			"c-290"
+			"ypos"			"r353"
+			"wide"			"590"
+		}
+	}
 	"ServerTimeLeft" 
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"Light19Shadow"
-		"font_minmode"		"MediumNumbers12Shadow"
+		"font"			"solFontRegular21"
+		"font_minmode"		"solFontRegular12"
 		"labelText"		"%servertimeleft%"
 		"textinsetx"	"0"
 		"textinsetx_minmode"	"0"
@@ -442,7 +469,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"Medium9Shadow"
+		"font"			"solFontRegular9"
 		"labelText"		"%spectators%"
 		"fgcolor"			"White"
 		"textAlignment"	"north-west"
@@ -450,6 +477,26 @@
 		"xpos_minmode"	"587"
 		"ypos"			"354"
 		"ypos_minmode"	"404"
+		"zpos"			"4"
+		"wide"			"540"
+		"wide_minmode"	"248"
+		"tall"			"11"
+		"visible"		"1"
+		"enabled"		"1"
+		"wrap"			"1"
+	}	
+	"SpectatorsShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"SpectatorsShadow"
+		"font"			"solFontRegular9"
+		"labelText"		"%spectators%"
+		"fgcolor"			"Black"
+		"textAlignment"	"north-west"
+		"xpos"			"158"
+		"xpos_minmode"	"587"
+		"ypos"			"354"
+		"ypos_minmode"	"405"
 		"zpos"			"4"
 		"wide"			"540"
 		"wide_minmode"	"248"
@@ -1629,8 +1676,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"mapname"
-			"font"			"Medium14"
-			"font_minmode"		"Medium9"
+			"font"			"solFontRegular14"
+			"font_minmode"		"solFontRegular9"
 			"labelText"		"%mapname%"
 			"textAlignment"		"center"
 			"textAlignment_minmode"	"east"
@@ -1652,7 +1699,7 @@
 			if_mvm
 			{
 				"visible" "1"
-				"font"			"Medium9"
+				"font"			"solFontRegular9"
 				"fgcolor"		"White"
 				"textAlignment"		"center"
 				"xpos"			"c-241"
@@ -1665,8 +1712,8 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"gametype"
-			"font"			"Medium9"
-			"font_minmode"		"Medium9"
+			"font"			"solFontRegular9"
+			"font_minmode"		"solFontRegular9"
 			"labelText"		"%gametype%"
 			"textAlignment"		"center"
 			"textAlignment_minmode"	"east"
@@ -1687,7 +1734,7 @@
 
 			if_mvm
 			{
-				"font"			"Medium9"
+				"font"			"solFontRegular9"
 				"visible"		"1"
 				"xpos"			"c-241"
 				"ypos"			"r158"

@@ -170,7 +170,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"FreezeLabelKiller"
-			"font"			"Light18"
+			"font"			"solFontRegular21"
 			"xpos"			"8"
 			"ypos"			"18"
 			"zpos"			"1"
