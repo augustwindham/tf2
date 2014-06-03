@@ -1547,6 +1547,16 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		solFontRegular18
+		{
+			"1"
+			{
+				"name"		"Solomon-Normal"
+				"tall"		"18"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
 		solFontRegular21
 		{
 			"1"
@@ -1694,6 +1704,16 @@ Scheme
 			{
 				"name"		"Solomon Heavy"
 				"tall"		"16"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		solFontBold18
+		{
+			"1"
+			{
+				"name"		"Solomon Heavy"
+				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
@@ -4982,6 +5002,17 @@ Scheme
 				"weight"	"0"
 				"symbol"	"1"
 				"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"MarlettSmall"
+		{
+			"1"
+			{
+			"name"	"Marlett"
+			"tall"	"14"
+			"weight"	"0"
+			"symbol"	"1"
+			"range"	"0x0000 0x007F"	//	Basic Latin
 			}
 		}
 		"MenuMainTitle"
