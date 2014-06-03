@@ -35,7 +35,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"11"
-		"ypos"					"27"
+		"ypos"					"28"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -48,7 +48,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"NoveMedium12"
+		"font"					"solFontRegular12"
 	}
 
 	"ItemEffectMeter"
@@ -105,7 +105,7 @@
 		"fillcolor"		"30 30 30 150"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 
 		if_mvm
