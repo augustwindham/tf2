@@ -16,10 +16,10 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"NoveLight18"
-			"fgcolor"			"Blue"
+			"font"			"solFontRegular21"
+			"fgcolor"			"White"
 			"xpos"			"0"
-			"ypos"			"-2"
+			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"80"
 			"tall"			"17"
@@ -47,10 +47,10 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"NoveLight18"
-			"fgcolor"			"Red"
+			"font"			"solFontRegular21"
+			"fgcolor"			"White"
 			"xpos"			"0"
-			"ypos"			"-2"
+			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"80"
 			"tall"			"17"
@@ -66,11 +66,11 @@
             "ControlName"	"ImagePanel"
             "fieldName"		"RedBG"
             "xpos"          "100"	//80
-            "ypos"          "450"
+            "ypos"          "470"
             "zpos"          "-8"
             "wide"          "40"	//80
-            "tall"          "22"
-            "fillcolor"		"255 255 255 255"	//255 255 255 150
+            "tall"          "3"
+            "fillcolor"		"Red"	//255 255 255 150
             "visible"		"1"
             "enabled"		"1"
         }
@@ -79,11 +79,11 @@
             "ControlName"	"ImagePanel"
             "fieldName"		"BlueBG"
             "xpos"          "20"	//20
-            "ypos"          "450"
+            "ypos"          "470"
             "zpos"          "-8"
             "wide"          "40"	//80
-            "tall"          "22"
-            "fillcolor"		"255 255 255 255"	//255 255 255 150
+            "tall"          "3"
+            "fillcolor"		"Blue"	//255 255 255 150
             "visible"		"1"
             "enabled"		"1"
         }
@@ -92,12 +92,12 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
 		"xpos"				"0"
-		"ypos"				"450"
+		"ypos"				"475"
 		"zpos"				"-3"
-		"wide"				"80"
-		"tall"				"22"
-		"fillcolor"		    "0 150 0 0"
-		"visible"			"0"
+		"wide"				"40"
+		"tall"				"3"
+		"fillcolor"		    "White"
+		"visible"			"1"
 		"enabled"			"1"
 	}
 }

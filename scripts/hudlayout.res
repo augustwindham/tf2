@@ -83,7 +83,7 @@
 		"LineSpacing"	  "1"      //Increase this to around "2" for line spacing in the killfeed
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"
-		"TextFont"		"Medium11"
+		"TextFont"		"solFontRegular11"
 		
 		"TeamBlue"		"72 107 141 255"	
 		"TeamRed"		"189 55 56 255"	
@@ -736,8 +736,8 @@
 		"wide"	"f0"
 		"tall"	"480"
 		
-		"blue_active_xpos"			"0"
-		"red_active_xpos"			"80"
+		"blue_active_xpos"			"20"
+		"red_active_xpos"			"100"
        
 	}	
 
