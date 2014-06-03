@@ -90,7 +90,7 @@
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"0 0 0 205"
+				"fillcolor"		"0 0 0 201"
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -99,7 +99,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
-				"font"		"Regular10"
+				"font"		"solFontRegular10"
 				"xpos"			"43"
 				"ypos"			"1"
 				"zpos"			"5"
@@ -229,7 +229,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"solFontRegular11"		//9
+				"font"		"solFontRegular11"
 				"xpos"			"2"
 				"ypos"			"1"
 				"zpos"			"8"
@@ -260,7 +260,7 @@
 				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
-				"visible"		"1"
+				"visible"		"0"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"east"
 				"fgcolor"		"WhiteS"
@@ -339,18 +339,21 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"r405"
-		"ypos"			"-1"
-		"wide"			"400"
+		"xpos"			"c-201"	
+		"ypos"			"117"	
+		"wide"			"400"	
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+        "textinsetx"	"0"
+		"use_proportional_insets" "0"
 		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"east"
-		"font"			"NoveLight20"
-		"fgcolor"		"Time"
+		"textAlignment"		"center"
+		"font"			"solFontRegular21"			
+		"fgcolor_override" "Time"
+	}
 
 		if_mvm
 		{
