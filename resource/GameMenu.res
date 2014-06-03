@@ -3,12 +3,12 @@
 	"BWHUD"
 	{
 		"label" "bwHUD"
-		"command" "engine con_enable 1; engine showconsole; clear; echo bwHUD. Thanks to whayay, omp, Fog, rays and doodle for his guide. Please direct any comments and/or concerns to http://teamfortress.tv/thread/16659/bwhud/ or http://steamcommunity.com/id/thecalvinandhobbes"
+		"command" "engine con_enable 1; engine showconsole; clear; echo bwHUD. Thanks to whayay, omp, Fog, rays and doodle for his guide. Please direct any comments and/or concerns to teamfortress.tv/thread/16659/bwhud/ or steamcommunity.com/id/thecalvinandhobbes"
 		"OnlyAtMenu" "1"
 	}
 	"Version"
 	{
-		"label" "Release Version 2.0.1"
+		"label" "Release Version 2.1.0"
 		"command" "engine con_enable 1; engine showconsole; clear; echo Thanks for using my HUD!"
 		"OnlyAtMenu" "1"
 	}
