@@ -634,6 +634,43 @@
 			"visible"		"0"
 		}
 	}
+		"MapName"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"mapname"
+			"font"			"solFontRegular14"
+			"font_minmode"		"solFontRegular9"
+			"labelText"		"%mapname%"
+			"textAlignment"		"center"
+			"textAlignment_minmode"	"east"
+			"xpos"			"c-83"
+			"xpos_minmode"		"r140"
+			"ypos"			"r83"
+			"ypos_minmode"		"r114"
+			"zpos"			"3"
+			"wide"			"165"
+			"wide_minmode"		"110"
+			"tall"			"14"
+			"tall_minmode"		"24"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"White"
+
+			if_mvm
+			{
+				"visible" "1"
+				"font"			"solFontRegular9"
+				"fgcolor"		"White"
+				"textAlignment"		"center"
+				"xpos"			"c-241"
+				"ypos"			"r168"
+				"wide"			"178"
+				"tall" "15"
+			}	
+		}
+		
 	"LocalPlayerDuelStatsPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -1672,42 +1709,7 @@
 				"tall"		"25"
 			}
 		}
-		"MapName"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"mapname"
-			"font"			"solFontRegular14"
-			"font_minmode"		"solFontRegular9"
-			"labelText"		"%mapname%"
-			"textAlignment"		"center"
-			"textAlignment_minmode"	"east"
-			"xpos"			"c-83"
-			"xpos_minmode"		"r185"
-			"ypos"			"r200"
-			"ypos_minmode"		"r261"
-			"zpos"			"3"
-			"wide"			"165"
-			"wide_minmode"		"110"
-			"tall"			"14"
-			"tall_minmode"		"24"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"fgcolor"		"White"
 
-			if_mvm
-			{
-				"visible" "1"
-				"font"			"solFontRegular9"
-				"fgcolor"		"White"
-				"textAlignment"		"center"
-				"xpos"			"c-241"
-				"ypos"			"r168"
-				"wide"			"178"
-				"tall" "15"
-			}	
-		}
 		"GameType"
 		{
 			"ControlName"	"CExLabel"
@@ -1728,8 +1730,8 @@
 			"tall_minmode"		"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"fgcolor"		"White"
 
 			if_mvm
