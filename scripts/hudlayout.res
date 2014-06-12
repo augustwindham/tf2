@@ -18,7 +18,7 @@
 		"fieldname"	"Crosshair"
         "textAlignment"	"center"
 		"xpos"		"0"
-		"ypos"		"0"
+		"ypos"		"-1"
 		"zpos"		"-200"
 		"wide"		"f0"
 		"tall"		"480"
@@ -29,7 +29,7 @@
 		"labeltext"	"T"              //Change this to use a different crosshair
                                      //You can see the list of crosshairs in yacrosshairs.png
         
-        "font"		"CrosshairOLSmall"    //Use "CrosshairOL" for a crosshair with an outline
+        "font"		"CrosshairAA"    //Use "CrosshairOL" for a crosshair with an outline
                                      //or "CrosshairAA" for a smooth crosshair w/o an outline 
                                      
                                      //You can add "Small" or "Big" at the end to change the size
@@ -972,6 +972,20 @@
 		"ItemFontPulsing" "Default"
     }
 	
+	HudMenuTauntSelection
+	{
+		"fieldName" 	"HudMenuTauntSelection"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-235"
+		"ypos"			"c-52"
+		"ypos_hidef"	"c-42"
+		"ypos_lodef"	"c-42"
+		"wide"			"470"
+		"tall"			"200"
+		"PaintBackgroundType"	"0"
+	}
+	
 	HudMannVsMachineStatus
 	{
 		"fieldName" "HudMannVsMachineStatus"
@@ -1556,6 +1570,17 @@
 		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
+	
+	"HudEurekaEffectTeleportMenu"
+	{
+		"fieldName"		"HudEurekaEffectTeleportMenu"
+		"visible"		"1"
+		"enabled"	"1"
+		"xpos"		"c-125"
+		"ypos"		"c-55"
+		"wide"		"250"
+		"tall"			"195"
+		"PaintBackgroundType"	"0"
 	
 	"HudMenuSpyDisguise"
 	{
