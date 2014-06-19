@@ -1581,6 +1581,7 @@
 		"wide"		"250"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
+	}
 	
 	"HudMenuSpyDisguise"
 	{
