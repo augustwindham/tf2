@@ -54,7 +54,7 @@
 				"xpos"        "0"
 				"ypos"        "0"	
 				"zpos"        "0"
-				"wide"        "27"		//23
+				"wide"        "20"		//23
 				"tall"        "14"			
 				"autoResize"		"0"
 				"pinCorner"		"0"
@@ -67,14 +67,14 @@
 			{
 				"ControlName" "ImagePanel"
 				"fieldName"   "BGClass"
-				"xpos"        "27"
+				"xpos"        "20"
 				"ypos"        "0"
 				"zpos"        "3"
 				"wide"        "14"
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"DarkGray"
+				"fillcolor"		"0 0 0 0"
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -90,7 +90,7 @@
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"0 0 0 201"
+				"fillcolor"		"GrayBGDarkest"
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -100,10 +100,10 @@
 				"ControlName"	"CExLabel"
 				"fieldName"	"playername"
 				"font"		"solFontRegular10"
-				"xpos"			"43"
+				"xpos"			"35"
 				"ypos"			"1"
 				"zpos"			"5"
-				"wide"			"85"		//62
+				"wide"			"93"		//62
 				"tall"			"13"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -122,14 +122,14 @@
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
-				"xpos"			"27"
+				"xpos"			"20"
 				"ypos"			"0"
 				"zpos"			"4"
 				"wide"			"14"
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"../hud/class_scoutred"
+				"image"			"../vgui/class_portraits/scout"
 				"scaleImage"	"1"	
 
 				if_mvm
@@ -230,17 +230,17 @@
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
 				"font"		"solFontRegular11"
-				"xpos"			"2"
-				"ypos"			"1"
+				"xpos"			"0"
+				"ypos"			"0"
 				"zpos"			"8"
-				"wide"			"23"
+				"wide"			"20"
 				"tall"			"13"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
-				"fgcolor"		"Black"
+				"fgcolor"		"White"
 
 				if_mvm
 				{
@@ -252,30 +252,47 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntimecover"
-				"font"			"BlocksSharp64"
-				"xpos"			"135"
+				"font"			"Shapes64"
+				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"5"
-				"wide"			"34"
+				"wide"			"20"
 				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
-				"visible"		"0"
+				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"east"
-				"fgcolor"		"WhiteS"
+				"fgcolor"		"70 70 70 255"
 			}
 			
+			"respawntimecover2"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"respawntimecover2"
+				"font"			"Shapes64"
+				"xpos"			"128"
+				"ypos"			"0"
+				"zpos"			"10"
+				"wide"			"26"
+				"tall"			"20"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"labelText"		"%respawntime%"
+				"textAlignment"	"east"
+				"fgcolor"		"45 45 45 255"
+			}
 			
 			"chargeamount"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
 				"font"		"solFontRegular10"
-				"xpos"			"1"
+				"xpos"			"0"
 				"ypos"			"1"
 				"zpos"			"8"
-				"wide"			"25"
+				"wide"			"20"
 				"tall"			"13"
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
@@ -353,7 +370,7 @@
 		"textAlignment"		"center"
 		"font"			"solFontRegular21"			
 		"fgcolor_override" "Time"
-	}
+	
 
 		if_mvm
 		{
