@@ -24,7 +24,7 @@
 		"tall"		"480"
         "enabled"	"1"
         
-        "visible"	"0"	di//You can see the list of crosshairs in yacrosshairs.png
+        "visible"	"0"	//You can see the list of crosshairs in yacrosshairs.png
         
         "font"		"CrosshairAA"    //Use "CrosshairOL" for a crosshair with an outline
                                      //or "CrosshairAA" for a smooth crosshair w/o an outline 
