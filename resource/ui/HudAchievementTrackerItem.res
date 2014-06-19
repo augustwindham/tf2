@@ -1,9 +1,8 @@
 "Resource/UI/HudAchievementTrackerItem.res"
 {
-
 //crosshair start
 
-CrossHairKonrWings
+	CrossHairKonrWings
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrWings"
@@ -25,7 +24,7 @@ CrossHairKonrWings
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"CrossHairKonrWingsOutline"
-		"visible"		"1"			//1
+		"visible"		"0"			//1
 		"enabled"		"1"
 		"zpos"			"2"
 		"xpos"			"c-58"
