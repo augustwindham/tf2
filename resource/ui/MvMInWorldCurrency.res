@@ -19,7 +19,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BG"
-		"xpos"			"r150"		//15
+		"xpos"			"r300"		//15
 		"ypos"			"r47"		//7
 		"zpos"			"-22"
 		"wide"			"80"
@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"Black"	
+		"bgcolor_override"	"DarkGraySolid"	
 	}
 	
 	"MoneyImagePanel"
@@ -49,10 +49,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
-		"font"			"NoveMedium18"
+		"font"			"solFontRegular18"
 		"fgcolor"		"White"
-		"xpos"			"r150"
-		"ypos"			"r49"
+		"xpos"			"r300"
+		"ypos"			"r47"
 		"zpos"			"4"
 		"wide"			"80"
 		"tall"			"18"
@@ -66,10 +66,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
-		"font"			"NoveMedium18"
+		"font"			"solFontRegular18"
 		"fgcolor"		"White"
-		"xpos"			"r150"
-		"ypos"			"r49"
+		"xpos"			"r300"
+		"ypos"			"r47"
 		"zpos"			"4"
 		"wide"			"80"
 		"tall"			"18"

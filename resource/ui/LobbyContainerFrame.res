@@ -308,14 +308,17 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"paintbackground"	"1"
 
-		"border_default"	"MainMenuButtonDefault"
-		"border_armed"		"MainMenuButtonArmed"
-		"paintbackground"	"0"
-			
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultBgColor_override"	"White"
+		"defaultFgColor_override" 	"Black"
+		"armedBgColor_override"		"GrayBG"
+		"armedFgColor_override" 	"White"
+		"depressedBgColor_override"	"Gray"
+		"depressedFgColor_override" "White"
+		"border_default"			"ButtonHover"
+		"border_armed"				"ButtonHover"
 	}
 
 	"MannUpDisabledLabel"
@@ -358,17 +361,16 @@
 		"brighttext"	"0"
 		"Command"		"practice"
 
+		"paintbackground"	"1"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"border_default"	"MainMenuButtonDefault"
-		"border_armed"		"MainMenuButtonArmed"
-		"paintbackground"	"0"
-			
-		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "46 43 42 255"
+		"defaultBgColor_override"	"White"
+		"defaultFgColor_override" 	"Black"
+		"armedBgColor_override"		"GrayBG"
+		"armedFgColor_override" 	"White"
+		"depressedBgColor_override"	"Gray"
+		"depressedFgColor_override" "White"
+		"border_default"			"ButtonHover"
+		"border_armed"				"ButtonHover"
 	}
 
 	"PlayWithFriendsExplanation"

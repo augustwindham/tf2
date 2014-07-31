@@ -17,12 +17,12 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"r80"
+		"xpos"			"r358"
 		"ypos"			"r47"	//1
 		"zpos"			"-22"
 		"wide"			"80"
 		"tall"			"17"
-		"fillcolor"		"DarkGraySolid"
+		"fillcolor"		"Red"
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -87,8 +87,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"r80"
-		"ypos"					"r49"
+		"xpos"					"r388"
+		"ypos"					"r47"
 		"zpos"					"2"
 		"wide"					"80"
 		"tall"					"18"	
@@ -101,7 +101,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"	        	"White"
-		"font"					"NoveMedium18"
+		"font"					"solFontBold18"
 	}
     "Label"
 	{

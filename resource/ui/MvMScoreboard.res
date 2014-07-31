@@ -4,15 +4,15 @@
 	{
 		"ControlName"		"CWaveStatusPanel"
 		"fieldName"			"WaveStatusPanel"
-		"xpos"				"0"
-		"ypos"				"0"
+		"xpos"				"c-300"
+		"ypos"				"-22"
 		"zpos"				"0"
-		"wide"				"0"
-		"tall"				"0"
-		"visible"			"0"
-		"enabled"			"0"
+		"wide"				"600"
+		"tall"				"67"
+		"visible"			"1"
+		"enabled"			"1"
 		
-		"verbose"			"0"
+		"verbose"			"1"
 	}
 	
 	"PopFileLabel"

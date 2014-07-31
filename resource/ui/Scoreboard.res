@@ -661,11 +661,11 @@
 			if_mvm
 			{
 				"visible" "1"
-				"font"			"solFontRegular9"
+				"font"			"solFontRegular14"
 				"fgcolor"		"White"
 				"textAlignment"		"center"
-				"xpos"			"c-241"
-				"ypos"			"r168"
+				"xpos"			"c-235"
+				"ypos"			"r110"
 				"wide"			"178"
 				"tall" "15"
 			}	
@@ -935,7 +935,7 @@
 			{
 				"textAlignment"	"east"
 				"fgcolor"		"White"
-				"font"		"Medium42"
+				"font"		"solFontRegular40"
 				"xpos"		"c-374"
 				"ypos"		"r170"
 				"tall"		"41"
@@ -984,7 +984,7 @@
 
 			if_mvm
 			{
-				"font"		"Medium40"
+				"font"		"solFontRegular40"
 				"fgcolor"		"White"
 				"xpos"		"c-221"
 				"ypos"		"r170"
@@ -1670,6 +1670,14 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			
+			if_mvm
+			{
+				"font"		"Medium9"
+				"visible"		"0"
+				"xpos"		"c-61"
+				"ypos"		"r142"
+			}
 		}
 		"Support"
 		{
@@ -1687,6 +1695,14 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			
+			if_mvm
+			{
+				"font"		"Medium9"
+				"visible"		"0"
+				"xpos"		"c-61"
+				"ypos"		"r142"
+			}
 		}
 		"DamageLabel"
 		{
@@ -1706,6 +1722,14 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			
+			if_mvm
+			{
+				"font"		"Medium9"
+				"visible"		"0"
+				"xpos"		"c-61"
+				"ypos"		"r142"
+			}
 		}
 		"Damage"
 		{
@@ -1726,6 +1750,14 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
+			
+			if_mvm
+			{
+				"font"		"Medium9"
+				"visible"		"0"
+				"xpos"		"c-61"
+				"ypos"		"r142"
+			}
 		}
 		"StatsBG"
 		{
@@ -1813,7 +1845,7 @@
 			if_mvm
 			{
 				"font"			"solFontRegular9"
-				"visible"		"1"
+				"visible"		"0"
 				"xpos"			"c-241"
 				"ypos"			"r158"
 				"wide"			"178"
