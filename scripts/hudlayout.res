@@ -24,7 +24,10 @@
 		"tall"		"480"
         "enabled"	"1"
         
-        "visible"	"0"	//You can see the list of crosshairs in yacrosshairs.png
+        "visible"	"0"	//"1" to enable
+		
+		"labeltext"	""              //Change this to use a different crosshair
+                                     //You can see the list of crosshairs in yacrosshairs.png
         
         "font"		"CrosshairAA"    //Use "CrosshairOL" for a crosshair with an outline
                                      //or "CrosshairAA" for a smooth crosshair w/o an outline 
@@ -1930,5 +1933,28 @@
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
+	}
+		
+	"HudMenuTauntSelection"
+	{
+		"fieldName" 	"HudMenuTauntSelection"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-235"
+		"ypos"			"c-50"
+		"wide"			"470"
+		"tall"			"200"
+		"PaintBackgroundType"	"0"
+	}
+		
+	"HudMiniGame"
+	{
+		"fieldName" 	"HudMiniGame"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos" 			"0"
+		"ypos" 			"0"
+		"wide" 			"f0"
+		"tall" 			"480"
 	}
 }
